@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'tencent_cloud_chat_sdk'
-  s.version          = '6.0.0'
+  s.version          = '6.0.1'
   s.summary          = 'Tencent IM SDK For Flutter'
   s.description      = <<-DESC
 Tencent IM SDK For Flutter
