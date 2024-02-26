@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'tencent_im_sdk_plugin'
-  s.version          = '5.0.4'
+  s.version          = '5.0.5'
   s.summary          = 'Tencent IM SDK For Flutter'
   s.description      = <<-DESC
 Tencent IM SDK For Flutter
